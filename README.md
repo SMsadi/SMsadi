@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm S M Sadi</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">A passionate overthinker</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smsadi&label=Profile%20views&color=0e75b6&style=flat" alt="smsadi" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Android, MERN, .NET Framework**
-
-- 📫 How to reach me **smsadi2001@gmail.com**
-
-- ⚡ Fun fact **The letter “J” was the last added to the English alphabet**
+- 🌱 I’m currently learning **ASP.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
